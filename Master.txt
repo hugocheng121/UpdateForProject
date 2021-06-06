@@ -1,4 +1,4 @@
-<Version: 1.11>
+<Version: 1.12>
 /data/Actors.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Animations.json
 /data/Armors.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Armors.json
@@ -14,5 +14,5 @@
 /data/Tilesets.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Tilesets.json
 /data/Troops.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Troops.json
 /data/Weapons.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Weapons.json
-/js/plugins.js https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/plugins.json
+/js/plugins.js https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/plugins.js
 <End of Version>
