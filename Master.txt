@@ -1,4 +1,17 @@
-<Version: 1.07>
-/data/Map003.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Map003.json
+<Version: 1.09>
+/data/Actors.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Actors.json
+/data/Animations.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Animations.json
+/data/Armors.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Armors.json
+/data/Classes.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Classes.json
 /data/CommonEvents.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/CommonEvents.json
+/data/Enemies.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Enemies.json
+/data/Items.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Items.json
+/data/Map003.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Map003.json
+/data/MapInfos.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/MapInfos.json
+/data/Skills.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Skills.json
+/data/States.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/States.json
+/data/System.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/System.json
+/data/Tilesets.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Tilesets.json
+/data/Troops.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Troops.json
+/data/Weapons.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Weapons.json
 <End of Version>
