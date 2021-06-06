@@ -1,4 +1,4 @@
-<Version: 1.13>
+<Version: 1.14>
 /data/Actors.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Animations.json
 /data/Armors.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Armors.json
