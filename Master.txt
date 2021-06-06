@@ -14,4 +14,5 @@
 /data/Tilesets.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Tilesets.json
 /data/Troops.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Troops.json
 /data/Weapons.json https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/Weapons.json
+/js/plugins.js https://raw.githubusercontent.com/hugocheng121/UpdateForProject/main/plugins.json
 <End of Version>
